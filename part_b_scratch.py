@@ -1,7 +1,6 @@
 """DS605 Lab 5 - Part B: from-scratch implementation. NumPy + Pandas only."""
 
 import numpy as np
-import pandas as pd
 import time
 import json
 
